@@ -40,11 +40,13 @@ export default {
     components: {
         Picture,
     },
+    props: {
+        email: String,
+        esta_trabalhando: Boolean,
+    },
     data() {
         return {
-            esta_trabalhando: false,
             mostrar_email: false,
-            email: 'junior@email.com',
             meu_link: 'https://google.com',
             textoBotao: 'Mostrar e-mail',
             backend_technologies: ['Java', 'Python', 'Node'],
