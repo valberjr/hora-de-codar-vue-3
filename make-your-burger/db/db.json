@@ -90,17 +90,6 @@
       "id": 1
     },
     {
-      "nome": "Zeca",
-      "carne": null,
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Vivi",
       "carne": "Picanha",
       "pao": "Parmesão e Orégano",
@@ -120,18 +109,6 @@
       ],
       "status": "Solicitado",
       "id": 4
-    },
-    {
-      "nome": "Paula",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa",
-        "Cheddar",
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 5
     }
   ]
 }
